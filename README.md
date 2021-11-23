@@ -2,6 +2,6 @@ I'm a software engineer/architect with over 15 years of professional experience 
 
 Passionate about software and proud father of two daughters.
 
-Specialities: Architecture, Cloud, Application Integration, Web Development
+Areas of expertise: Architecture, Cloud, Application Integration, Web Development
 
 If you want to network, connect with me on [LinkedIn](https://www.linkedin.com/in/marcwils/).
