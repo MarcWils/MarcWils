@@ -1,4 +1,4 @@
-I'm a software engineer/architect with over 15 years of professional experience in software development with a main focus on the Microsoft stack.
+I'm a software engineer/architect with nearly 20 years of professional experience in software development with a main focus on the Microsoft stack.
 
 Passionate about software and proud father of two daughters.
 
